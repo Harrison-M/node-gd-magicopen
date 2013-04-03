@@ -1,11 +1,11 @@
 {
     "name": "gd-magicopen",
     "description": "Opens an image in node-gd based on its MIME type",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "main": "./index.js",
     "dependencies": {
         "node-gd": "0.2.x",
-        "mmmagic": "0.2.x"
+        "mmmagic": "0.3.x"
     },
     "repository": {
         "type": "git",
